@@ -16,3 +16,6 @@ szam **= 2
 szam -= 15
 
 print(f"A számított érték {szam}")
+
+szam = szam * (6 + 10 - 5)
+szam *= 6 + 10 - 5
